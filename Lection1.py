@@ -15,7 +15,6 @@ elif age >= 18 and age < 100:
 else:
     print("Invalid age.")
     print("Please enter a valid age.")
-    print("Try again.")
     
 
     
