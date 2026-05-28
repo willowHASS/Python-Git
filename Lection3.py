@@ -1,2 +1,1 @@
-print ("Hello, Lektion 3!"
-       )
+print ("Hello Andreas, Lektion 3!")
